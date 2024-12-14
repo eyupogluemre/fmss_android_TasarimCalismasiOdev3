@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TherapyTime</string>
+    <string name="baslik1">Which is your speech disorder?</string>
+    <string name="baslik2">You can choose multiple choice!</string>
+    <string name="bozukluk1">Fluency</string>
+    <string name="bozukluk2">Apraxia</string>
+    <string name="bozukluk3">Aphasia</string>
+    <string name="bozukluk4">Dysarthria</string>
+    <string name="bozukluk5">Voice</string>
+    <string name="bozukluk6">Speech</string>
+    <string name="bozukluk7">Pragmatic</string>
+    <string name="bozukluk8">Language</string>
+    <string name="bozukluk9">Prosody</string>
+    <string name="bozukluk10">Emphasis</string>
+    <string name="bozukluk11">Dyslexia</string>
+    <string name="bozukluk12">Other</string>
+    <string name="buton">NEXT</string>
+</resources>

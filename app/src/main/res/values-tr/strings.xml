@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TherapyTime</string>
+    <string name="baslik1">Senin Konuşma Bozukluğun Hangisi?</string>
+    <string name="baslik2">Birden fazla seçim yapabilirsin!</string>
+    <string name="bozukluk1">Kekemelik</string>
+    <string name="bozukluk2">Apraksi</string>
+    <string name="bozukluk3">Afazi</string>
+    <string name="bozukluk4">Dizartri</string>
+    <string name="bozukluk5">Ses</string>
+    <string name="bozukluk6">Konuşma Sesi</string>
+    <string name="bozukluk7">Pragmatik</string>
+    <string name="bozukluk8">Dil</string>
+    <string name="bozukluk9">Prozodi</string>
+    <string name="bozukluk10">Vurgu</string>
+    <string name="bozukluk11">Disleksi</string>
+    <string name="bozukluk12">Diğer</string>
+    <string name="buton">İLERLE</string>
+</resources>
